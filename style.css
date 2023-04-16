@@ -1,0 +1,54 @@
+body {background-color: rgb(198, 221, 241);
+}
+
+h1{color: blueviolet;
+}
+h1 {font-size: 500%;
+}
+h1 {text-align: center;
+}
+
+h2 {color: blue;
+}
+h2 {font-size: 300%;
+}
+h2 {text-align: center;
+}
+
+h3 {font-size: 150%;
+}
+h3 {text-align: center;
+}
+
+p {font-size: 150%;
+}
+p {text-align: center;
+}
+
+
+#i1 {width:55%;
+}
+#i1 {margin-left: 25%;
+}
+
+#i2 {width:55%;
+}
+#i2 {margin-left: 25%;
+}
+
+#i3 {width:55%;
+}
+#i3 {margin-left: 25%;
+}
+
+
+
+h {font-size: 0%;
+}
+h {text-align: center;
+}
+
+#img {width:0%;
+}
+#img {margin-left: 0%;
+}
